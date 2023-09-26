@@ -11,7 +11,7 @@ The pytorch implementation for "Spatial-Temporal Semantic Perception Network for
 
 ## Datasets
 
-- Download the [MSSCD](链接：https://pan.baidu.com/s/1niKMHZBfqe8qtDSgjCYhNg?pwd=r0u7)
+- Download the [MSSCD](https://pan.baidu.com/s/1niKMHZBfqe8qtDSgjCYhNg?pwd=r0u7)
 
 
 
